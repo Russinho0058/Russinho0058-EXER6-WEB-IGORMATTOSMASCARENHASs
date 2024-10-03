@@ -1,0 +1,11 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#mensagem {
+	color: #00698f;
+}
+
+#mensagem ul {
+	list-style: decimal;
+}
